@@ -53,7 +53,7 @@ npx expo start --clear
 ```
 
 🛠 Tech Stack
-React Native
+
 
 Expo
 
