@@ -1,6 +1,6 @@
 # MyMeditation_App
 
-<img src="/MeditationGif.gif"/>
+<img  src="/MeditationGif.gif"/>
 
 **Cloning the Repository**
 
@@ -51,3 +51,16 @@ The --clear flag clears the cache.
 ```bash
 npx expo start --clear
 ```
+
+🛠 Tech Stack
+React Native
+
+Expo
+
+TypeScript
+
+NativeWind (Tailwind CSS for RN)
+
+Expo Router
+
+Expo AV / Font / Linear Gradient
