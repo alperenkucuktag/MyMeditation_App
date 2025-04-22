@@ -1,6 +1,6 @@
 # MyMeditation_App
 
-
+<img  src="/MeditationGif.gif"/>
 
 **Cloning the Repository**
 
