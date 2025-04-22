@@ -52,15 +52,11 @@ The --clear flag clears the cache.
 npx expo start --clear
 ```
 
-🛠 Tech Stack
 
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-Expo
-
-TypeScript
-
-NativeWind (Tailwind CSS for RN)
-
-Expo Router
-
-Expo AV / Font / Linear Gradient
+- React Native
+- Expo
+- NativeWind
+- JavaScript
+- TypeScript
